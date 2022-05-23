@@ -4,7 +4,7 @@ The purpose of this repository is to provide a brief summary and easy access to 
 
 ## Projects:
 * [LED Binary Counter](https://github.com/teniiif/Portfolio/tree/main/LED-BinaryCounter)
-* Controlling Electronic Components with Raspberry Pi
+* [Controlling Electronic Components with Raspberry Pi](https://github.com/teniiif/Portfolio/tree/main/ElecCompRaspPi)
 * Robotic Car
 ### James Dyson Award 2022 Entry
 The challenge for this year's James Dyson Award was simple: **design something that solves a problem**.
