@@ -3,7 +3,7 @@ Hello! My name is Oluwateniola Fasanmi and welcome to my portfolio. I am a third
 The purpose of this repository is to provide a brief summary and easy access to my projects. For full documentation and more information, please visit my [website](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
 
 ## Projects:
-* LED Binary Counter
+* [LED Binary Counter](https://github.com/teniiif/Portfolio/tree/main/LED-BinaryCounter)
 * Controlling Electronic Components with Raspberry Pi
 * Robotic Car
 ### James Dyson Award 2022 Entry
