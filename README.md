@@ -1,4 +1,4 @@
-# [Portfolio](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
+# [Welcome!](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
 Hello! My name is Oluwateniola Fasanmi and welcome to my portfolio. I am a third-year electrical engineering student at the University of Victoria. I have an interest in embedded systems and electromechanical designs, and plan to specialize in mechatronics in my final year of school. Post-graduation, I hope to become a mechatronics engineer and apply the knowledge and skills that I have built up to the design of sustainable and accessible technologies. 
 All documentation for projuects I have worked on can be accessed by clicking the links below or throough any of the projtct's github repository
 
