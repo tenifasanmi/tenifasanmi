@@ -1,11 +1,11 @@
 # [Portfolio](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
 Hello! My name is Oluwateniola Fasanmi and welcome to my portfolio. I am a third-year electrical engineering student at the University of Victoria. I have an interest in embedded systems and electromechanical designs, and plan to specialize in mechatronics in my final year of school. Post-graduation, I hope to become a mechatronics engineer and apply the knowledge and skills that I have built up to the design of sustainable and accessible technologies. 
-The purpose of this repository is to provide a brief summary and easy access to my projects. For full documentation and more information, please visit my [website](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
+All documentation for projuects I have worked on can be accessed by clicking the links below or throough any of the projtct's github repository
 
 ## Projects:
-* [LED Binary Counter](https://github.com/teniiif/Portfolio/tree/main/LED-BinaryCounter)
-* [Controlling Electronic Components with Raspberry Pi](https://github.com/teniiif/Portfolio/tree/main/ElecCompRaspPi)
+* [LED Binary Counter](https://github.com/teniiif/4-bit-LED-Binary-Counter)
+* [Traffic Lights](https://github.com/teniiif/raspberrypi-traffic-lights)
 * [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
-### James Dyson Award 2022 Entry
+<!-- ### James Dyson Award 2022 Entry
 The challenge for this year's James Dyson Award was simple: **design something that solves a problem**.
 I found that the most difficult part of providing a solution to this challenge was finding something outside the box that had not laready been done. This is as a result of how fast the world is starting to depend on technology and there are many solutions for various problems already. For more information on the James Dyson award, click [here](https://www.jamesdysonaward.org/en-ca/home/). For a brief overview of my entry for the competition, click here. Alternatively, you could also view the full documentation for my entry here.
