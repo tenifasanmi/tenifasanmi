@@ -5,7 +5,7 @@ All documentation for projuects I have worked on can be accessed by clicking the
 ## Projects:
 * [LED Binary Counter](https://github.com/teniiif/4-bit-LED-Binary-Counter)
 * [Traffic Lights](https://github.com/teniiif/raspberrypi-traffic-lights)
-* [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
+<!-- * [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
 <!-- ### James Dyson Award 2022 Entry
 The challenge for this year's James Dyson Award was simple: **design something that solves a problem**.
 I found that the most difficult part of providing a solution to this challenge was finding something outside the box that had not laready been done. This is as a result of how fast the world is starting to depend on technology and there are many solutions for various problems already. For more information on the James Dyson award, click [here](https://www.jamesdysonaward.org/en-ca/home/). For a brief overview of my entry for the competition, click here. Alternatively, you could also view the full documentation for my entry here.
