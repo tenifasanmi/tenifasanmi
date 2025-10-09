@@ -5,7 +5,7 @@ All documentation for projects I have worked on can be accessed by clicking the 
 
 ## Projects:
 * [LED Binary Counter](https://github.com/teniiif/4-bit-LED-Binary-Counter)
-* [Traffic Lights](https://github.com/teniiif/raspberrypi-traffic-lights)
+* [Mini Traffic Lights](https://github.com/teniiif/Mini-Traffic-Lights-Controller)
 <!-- * [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
 <!-- ### James Dyson Award 2022 Entry
 The challenge for this year's James Dyson Award was simple: **design something that solves a problem**.
