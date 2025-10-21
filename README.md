@@ -6,9 +6,9 @@ All documentation for projects I have worked on can be accessed by clicking the 
 ## Projects:
 * [LED Binary Counter](https://github.com/teniiif/4-bit-LED-Binary-Counter)
 * [Mini Traffic Lights](https://github.com/teniiif/Mini-Traffic-Lights-Controller)
-* [Smart Room Lighting](https://github.com/teniiif/Smart-Room-Lighting)
 * [Avocado Clock Radio](https://github.com/teniiif/Avocado-Clock-Radio)
 * [IoT Sensor Node](https://github.com/teniiif/IoT-Temperature-and-Humidity-Sensor-Node)
+<!--* [Smart Room Lighting](https://github.com/teniiif/Smart-Room-Lighting)
 <!-- * [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
 <!-- ### James Dyson Award 2022 Entry
 The challenge for this year's James Dyson Award was simple: **design something that solves a problem**.
