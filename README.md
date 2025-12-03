@@ -5,7 +5,7 @@ All documentation for projects I have worked on can be accessed by clicking the 
 
 ## Projects:
 * [Material Identification and Sorting System](https://github.com/tenifasanmi/material-sorter)
-* [IoT Sensor Node](https://github.com/tenifasanmi/IoT-Temperature-and-Humidity-Sensor-Node)
+* [IoT Sensor Node](https://github.com/tenifasanmi/IoT-Temperature-Sensor-Node)
 * [Avocado Clock Radio](https://github.com/tenifasanmi/Avocado-Clock-Radio)
 * [Mini Traffic Lights](https://github.com/tenifasanmi/Mini-Traffic-Lights-Controller)
 * [LED Binary Counter](https://github.com/tenifasanmi/4-bit-LED-Binary-Counter)
