@@ -4,10 +4,14 @@ Post-graduation, I hope to apply the knowledge and skills that I have built up t
 All documentation for projects I have worked on can be accessed by clicking the links below or through any of the project's github repository.
 
 ## Projects:
-* [LED Binary Counter](https://github.com/teniiif/4-bit-LED-Binary-Counter)
-* [Mini Traffic Lights](https://github.com/teniiif/Mini-Traffic-Lights-Controller)
-* [Avocado Clock Radio](https://github.com/teniiif/Avocado-Clock-Radio)
-* [IoT Sensor Node](https://github.com/teniiif/IoT-Temperature-and-Humidity-Sensor-Node)
+* [Material Identification and Sorting System](https://github.com/tenifasanmi/material-sorter)
+* [IoT Sensor Node](https://github.com/tenifasanmi/IoT-Temperature-and-Humidity-Sensor-Node)
+* [Avocado Clock Radio](https://github.com/tenifasanmi/Avocado-Clock-Radio)
+* [Mini Traffic Lights](https://github.com/tenifasanmi/Mini-Traffic-Lights-Controller)
+* [LED Binary Counter](https://github.com/tenifasanmi/4-bit-LED-Binary-Counter)
+
+
+
 <!--* [Smart Room Lighting](https://github.com/teniiif/Smart-Room-Lighting)
 <!-- * [Robotic Car](https://github.com/teniiif/Portfolio/tree/main/RoboticCar)
 <!-- ### James Dyson Award 2022 Entry
