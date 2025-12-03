@@ -1,7 +1,7 @@
 # [Welcome!](https://sites.google.com/u/0/d/11rOH9SwzZsHqicgPYGyLVpM7_tYBeX7I/p/1Q92wH39W-08LhL9dJa2RGXWInm7CVj8r/preview?authuser=0)
-Hello! My name is Teni and welcome to my portfolio. I am an electrical engineering student at the University of Victoria. I have an interest in embedded systems, AI and robotics. 
-Post-graduation, I hope to apply the knowledge and skills that I have built up to the design of sustainable and accessible technologies. 
-All documentation for projects I have worked on can be accessed by clicking the links below or through any of the project's github repository.
+Hello! My name is Teni, and welcome to my portfolio. I am an electrical engineering student at the University of Victoria. I have an interest in electrical hardware, embedded systems, AI and robotics. 
+Post-graduation, I hope to apply the knowledge and skills I have built to the design of sustainable, accessible technologies. 
+All documentation for projects I have worked on can be accessed by clicking the links below or through any of the project's GitHub repositories.
 
 ## Projects:
 * [Material Identification and Sorting System](https://github.com/tenifasanmi/material-sorter)
